@@ -1,0 +1,4 @@
+version: '2'
+services:
+  container:
+    image: redis:5.0.3-alpine
